@@ -15,11 +15,11 @@ client.on("ready", () => {
 const log = message => {
   console.log(`[${moment().format("YYYY-MM-DD HH:mm:ss")}] ${message}`);
 };
+///////////// KOMUTLARIN BASLANGICI
 
-///////////// KOMUTLAR BAŞ
+////////////// KOMUTLARIN SONU
 
-////////////// KOMUTLAR SON
-////////////// ALTI ELLEME
+////////////// ALT KISMA DOKUNMAYIN
 require("./util/eventLoader")(client);
 
 client.login(ayarlar.token);
