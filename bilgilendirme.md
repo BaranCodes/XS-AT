@@ -27,6 +27,8 @@ Herhangi bir yardima ihtiyaciniz olursa Murat Eren "YouTube" sunucusundaki altya
 •
 •
 
+Altyapi võíd#9932 tarafindan hazirlanmistir altyapi destek kanalindan ve ya direk altyapi sahibi ile goruserek sorunlarinizi giderebilirsiniz.
+
 YouTube: https://youtube.com/c/MuratErenn
 
-Discord Sunucusu:
+Discord Sunucusu: https://discord.gg/dPSK3BxrbD
