@@ -16,13 +16,13 @@ Oynuyor kismi ready.js dosyasindadir.
 
 Herhangi bir yardima ihtiyaciniz olursa Murat Eren "YouTube" sunucusundaki altyapi destek kanalindan yardim alabilirsiniz.
 
-   ornek-komut.js dosyasi icindeki kodu referans olarak kullanabilirsiniz
+   ```ornek-komut.js``` dosyasi icindeki kodu referans olarak kullanabilirsiniz
    
 ---
 
 #### Iletisim ve diger bilgiler
 Altyapi võíd#9932 tarafindan hazirlanmistir altyapi destek kanalindan ve ya direk altyapi sahibi ile goruserek sorunlarinizi giderebilirsiniz.
 
-YouTube: https://youtube.com/c/MuratErenn
+[YouTube](https://youtube.com/c/MuratEren "Murat Eren") 
 
-Discord Sunucusu: https://discord.gg/dPSK3BxrbD
+[Discord Sunucumuz](https://discord.gg/dPSK3BxrbD) 
