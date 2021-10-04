@@ -1,5 +1,5 @@
 {
-  "token": "TOKEN",
+  "token": "process.env.token",
   "prefix": "PREFIX",
   "sahip": "SAHİP ID"
 }

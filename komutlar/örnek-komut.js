@@ -2,19 +2,19 @@ const Discord = require('discord.js');
 
 exports.run = (client, message, args) => {
   
-  message.channel.send('Bu Bir Örnek Komuttur xd')
+  message.channel.send('Ornek komut calistirildi')
   
 };
 
 exports.conf = {
   enabled: true,
   guildOnly: false,
-  aliases: [],
+  aliases: ['ornek'],
   permLevel: 0
 };
 
 exports.help = {
-  name: 'örnek',
-  description: 'nobles api',
-  usage: 'örnek'
+  name: 'ornek',
+  description: 'murat eren bos altyapi ornek komut',
+  usage: '<prefix> ornek'
 };
