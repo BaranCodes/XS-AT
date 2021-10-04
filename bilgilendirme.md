@@ -12,6 +12,7 @@ Altyapi Murat Eren YouTube kanali adina yapilmis olup herhangi bir sekilde izins
 •
 Altyapiyi calistirmak icin .env dosyasindaki token kismina tokeninizi ayarlar.json a ise diger bilgilerinizi doldurmaniz yeterlidir
 
+Oynuyor kismi ready.js dosyasindadir.
    Prefix botunuzun on ekidir(ornek !ban) buradaki ! prefixtir ayarlar.json dosyasindan bunu istediginiz sekilde degistirebilirsiniz varsayilan olarak prefix kismi bostur
 •
 •
